@@ -462,8 +462,12 @@
       "font_size": "Font Size",
       "label": "Interface",
       "light_mode": "Light",
+      "line_height": "Line Height",
+      "narrow": "Narrow",
+      "normal": "Normal",
       "system_mode": "System",
-      "theme_color": "Theme Color"
+      "theme_color": "Theme Color",
+      "wide": "Wide"
     },
     "language": {
       "display_language": "Display Language",
